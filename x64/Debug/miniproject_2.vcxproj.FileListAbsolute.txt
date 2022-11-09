@@ -1,0 +1,4 @@
+E:\ki_1_nam4\lap_trinh_c\bai_tap_code\miniproject_2\x64\Debug\miniproject_2.exe
+D:\mini_project_lan_1\miniproject_2_lan1\x64\Debug\miniproject_2.exe
+F:\FPT\miniproject_2_lan1\x64\Debug\miniproject_2.exe
+E:\ki_1_nam4\lap_trinh_c\bai_tap_code\Nop_miniProject\Mini_Project\Mini_Project\x64\Debug\miniproject_2.exe
